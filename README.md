@@ -86,8 +86,8 @@ Follow these steps to get the project running on your local machine.
 
 ### 1. Clone the Repository
 ```
-https://github.com/ANSH5252/FoodConnect.git
-cd foodconnect
+git clone https://github.com/ANSH5252/FoodConnect.git
+cd FoodConnect
 ```
 ### 2. Install Dependencies
 ```
