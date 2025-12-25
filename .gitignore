@@ -1,0 +1,5 @@
+# Ignore the actual config file with keys
+public/config.js
+
+# Ignore Firebase cache
+.firebase/
